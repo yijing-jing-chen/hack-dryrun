@@ -21,7 +21,7 @@ function App() {
         />
       </label>
       <p style={{ marginTop: '2rem', color: '#666' }}>
-        If you can read this on a public URL, the pipeline works.
+        change on this  pipeline works.
       </p>
     </main>
   )
